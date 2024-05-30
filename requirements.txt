@@ -5,3 +5,4 @@ uvicorn
 arxiv
 pyautogen==0.2.27
 autogenstudio==0.0.56
+packaging
